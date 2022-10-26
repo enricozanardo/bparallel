@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 
+// add comment!
+
 double media(double a, double b) {
     return (a+b)/2;
 }
